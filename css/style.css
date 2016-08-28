@@ -300,6 +300,7 @@
 
 .right-aside .page-title .search-text{
 	border:none;
+	float:left;
 	width:130px;
 	height:30px;
 	line-height:30px;
